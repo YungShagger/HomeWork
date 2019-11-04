@@ -1,0 +1,12 @@
+C:\Users\Work\source\repos\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Work\source\repos\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Work\source\repos\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Work\source\repos\Homework\Homework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Work\source\repos\Homework\Homework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Work\source\repos\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\Work\source\repos\Homework\Homework\obj\Debug\Homework.MainForm.resources
+C:\Users\Work\source\repos\Homework\Homework\obj\Debug\Homework.Properties.Resources.resources
+C:\Users\Work\source\repos\Homework\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+C:\Users\Work\source\repos\Homework\Homework\obj\Debug\Homework.csproj.CopyComplete
+C:\Users\Work\source\repos\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Work\source\repos\Homework\Homework\obj\Debug\Homework.pdb
